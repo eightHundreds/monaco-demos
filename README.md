@@ -1,2 +1,2 @@
-# monaco-demos
+# code-editor
 Created with CodeSandbox
